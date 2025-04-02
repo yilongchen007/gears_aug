@@ -532,6 +532,3 @@ class GEARS:
             return
             
         print_sys('Done!')
-
-
-
